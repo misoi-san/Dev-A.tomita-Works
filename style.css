@@ -1,0 +1,58 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+body, html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color:#000000;
+}
+
+
+.section-title{
+}
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+.hero-title
+.display-1{
+    font-family: 'Noto Sans JP';
+}
+
+/*--------------------------------------------------------------
+# About me Section
+--------------------------------------------------------------*/
+
+.about{
+    background-color: white;
+}
+
+.row{
+    background-color: white;
+}
+
+.about-title{
+    font-family: 'Noto Sans JP'
+}
+
+.my-img{
+    background-color:white;
+}
+
+.my-discription{
+    background-color: white;
+}
+
+/*--------------------------------------------------------------
+# portfolio Section
+--------------------------------------------------------------*/
+
+.portfolio-title{
+    font-family: 'Noto Sans JP';
+}
+
+.container{
+}
