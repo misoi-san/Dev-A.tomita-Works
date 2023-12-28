@@ -13,6 +13,11 @@ body {
 
 
 .section-title{
+    font-family: 'Noto Sans JP';
+}
+
+.span .strong{
+    font-family: 'Noto Sans JP';
 }
 /*--------------------------------------------------------------
 # Hero Section
@@ -35,7 +40,7 @@ body {
 }
 
 .about-title{
-    font-family: 'Noto Sans JP'
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .my-img{
@@ -52,7 +57,4 @@ body {
 
 .portfolio-title{
     font-family: 'Noto Sans JP';
-}
-
-.container{
 }
